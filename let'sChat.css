@@ -1,0 +1,41 @@
+.logo{
+    width:3=400px;
+    height:300px;
+}
+#envelope{
+    width:100px;
+    height:100px;
+}
+h1{
+    font-family: fantasy;
+    color: cornflowerblue;
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+#control{
+    background-image:linear-gradient(to top, rgb(246, 246, 152), rgb(255, 222, 102), rgb(241, 172, 98))
+}
+#room
+{
+background-image: linear-gradient(to right top, #f1c233, #d97025, #c1a818, #aa320a, #941e00);
+}
+
+h1
+{
+	color: white;font-family: fantasy;
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+}
+
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
